@@ -18,7 +18,7 @@ function Result() {
       setScore(state.score);
 
       // Lưu điểm vào JSON Server
-      fetch("http://localhost:5000/leaderboard", {
+      fetch("https://gr8sdr-8080.csb.app/leaderboard", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -32,7 +32,7 @@ function Result() {
 
   useEffect(() => {
     // Kiểm tra xem người chơi đã đánh giá chưa
-    fetch(`http://localhost:5000/feedback?player=${playerName}`)
+    fetch(`https://gr8sdr-8080.csb.app/feedback?player=${playerName}`)
       .then((res) => res.json())
       .then((data) => {
         if (data.length > 0) {
@@ -56,8 +56,8 @@ function Result() {
       };
 
       const url = feedbackId
-        ? `http://localhost:5000/feedback/${feedbackId}`
-        : "http://localhost:5000/feedback";
+        ? `https://gr8sdr-8080.csb.app/feedback/${feedbackId}`
+        : "https://gr8sdr-8080.csb.app/feedback";
       const method = feedbackId ? "PUT" : "POST";
 
       fetch(url, {

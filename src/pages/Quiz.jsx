@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import Question from "../components/Question";
-import ("../App.css");
+import("../App.css");
 
 function Quiz() {
   const [questions, setQuestions] = useState([]);
@@ -12,7 +12,7 @@ function Quiz() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch("http://localhost:5000/questions")
+    fetch("https://gr8sdr-8080.csb.app/questions")
       .then((res) => res.json())
       .then((data) => setQuestions(data))
       .catch((error) => console.error("Lỗi tải câu hỏi:", error));
@@ -63,38 +63,41 @@ function Quiz() {
   };
 
   return (
-    <div className="container-home" >
-    <div className="quiz-container " >
-      {questions.length > 0 ? (
-        <>
-          <Question
-            question={questions[currentQuestionIndex]}
-            onAnswer={handleAnswer}
-          />
-          <div className="button-container">
-            <button  className="quiz-button" onClick={handlePrev} disabled={currentQuestionIndex === 0}>
-              Quay lại
-            </button>
-            <button
+    <div className="container-home">
+      <div className="quiz-container ">
+        {questions.length > 0 ? (
+          <>
+            <Question
+              question={questions[currentQuestionIndex]}
+              onAnswer={handleAnswer}
+            />
+            <div className="button-container">
+              <button
                 className="quiz-button"
-              onClick={handleNext}
-              disabled={currentQuestionIndex + 1 >= questions.length}
-  
-            >
-              Tiếp theo
-            </button>
-            <button
-              onClick={handleSubmit}
-              className="quiz-button submit-button"
-            >
-              Nộp bài
-            </button>
-          </div>
-        </>
-      ) : (
-        <p className="loading-text">Đang tải câu hỏi...</p>
-      )}
-    </div>
+                onClick={handlePrev}
+                disabled={currentQuestionIndex === 0}
+              >
+                Quay lại
+              </button>
+              <button
+                className="quiz-button"
+                onClick={handleNext}
+                disabled={currentQuestionIndex + 1 >= questions.length}
+              >
+                Tiếp theo
+              </button>
+              <button
+                onClick={handleSubmit}
+                className="quiz-button submit-button"
+              >
+                Nộp bài
+              </button>
+            </div>
+          </>
+        ) : (
+          <p className="loading-text">Đang tải câu hỏi...</p>
+        )}
+      </div>
     </div>
   );
 }

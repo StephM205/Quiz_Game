@@ -6,7 +6,7 @@ function Leaderboard() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch("http://localhost:5000/leaderboard")
+    fetch("https://gr8sdr-8080.csb.app/leaderboard")
       .then((res) => res.json())
       .then((data) => {
         // Sắp xếp điểm số giảm dần

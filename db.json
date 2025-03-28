@@ -1321,54 +1321,6 @@
       "id": "q060"
     }
   ],
-  "leaderboard": [
-    {
-      "id": "1499",
-      "name": "Admin",
-      "score": 0,
-      "totalQuestions": 60
-    },
-    {
-      "id": "bfa3",
-      "name": "Admin",
-      "score": 0,
-      "totalQuestions": 60
-    },
-    {
-      "id": "b357",
-      "name": "Admin",
-      "score": 0,
-      "totalQuestions": 60
-    },
-    {
-      "id": "0658",
-      "name": "Admin",
-      "score": 0,
-      "totalQuestions": 60
-    },
-    {
-      "id": "4062",
-      "name": "Admin",
-      "score": 0,
-      "totalQuestions": 60
-    },
-    {
-      "id": "0107",
-      "name": "Admin",
-      "score": 0,
-      "totalQuestions": 60
-    },
-    {
-      "id": "ede2",
-      "name": "Admin",
-      "score": 0,
-      "totalQuestions": 60
-    },
-    {
-      "id": "50a7",
-      "name": "Admin",
-      "score": 0,
-      "totalQuestions": 60
-    }
-  ]
+  "leaderboard": [],
+  "feedback": []
 }
