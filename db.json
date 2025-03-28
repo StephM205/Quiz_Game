@@ -1,0 +1,1374 @@
+{
+  "questions": [
+    {
+      "question": "Khái niệm tư tưởng Hồ Chí Minh lần đầu tiên được sử dụng trong Văn kiện Đại hội đại biểu toàn quốc lần thứ mấy của Đảng Cộng sản Việt Nam?",
+      "answers": [
+        {
+          "text": "Lần thứ VII.",
+          "correct": true
+        },
+        {
+          "text": "Lần thứ X.",
+          "correct": false
+        },
+        {
+          "text": "Lần thứ XI.",
+          "correct": false
+        },
+        {
+          "text": "Lần thứ IV.",
+          "correct": false
+        }
+      ],
+      "id": "q001"
+    },
+    {
+      "question": "Tư tưởng Hồ Chí Minh có vị trí như thế nào trong hệ thống tư tưởng của Đảng Cộng sản Việt Nam?",
+      "answers": [
+        {
+          "text": "Là một bộ phận trong hệ thống tư tưởng của Đảng.",
+          "correct": false
+        },
+        {
+          "text": "Là bộ phận quan trọng trong hệ thống tư tưởng của Đảng.",
+          "correct": false
+        },
+        {
+          "text": "Là bộ phận rất quan trọng trong tư tưởng của Đảng.",
+          "correct": false
+        },
+        {
+          "text": "Là bộ phận nền tảng, kim chỉ nam cho hành động của Đảng.",
+          "correct": true
+        }
+      ],
+      "id": "q002"
+    },
+    {
+      "question": "Nguyễn Ái Quốc đã gửi bản 'Yêu sách của nhân dân An Nam' tới Hội nghị Versailles vào ngày tháng năm nào?",
+      "answers": [
+        {
+          "text": "18/6/1917",
+          "correct": false
+        },
+        {
+          "text": "18/6/1916",
+          "correct": false
+        },
+        {
+          "text": "18/6/1915",
+          "correct": false
+        },
+        {
+          "text": "18/6/1919",
+          "correct": true
+        }
+      ],
+      "id": "q003"
+    },
+    {
+      "question": "Câu '…Chủ trương làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản' được trích từ bài viết nào của Hồ Chí Minh?",
+      "answers": [
+        {
+          "text": "Đường Kách mệnh.",
+          "correct": false
+        },
+        {
+          "text": "Chính cương vắn tắt của Đảng.",
+          "correct": true
+        },
+        {
+          "text": "Chương trình của Đảng.",
+          "correct": false
+        },
+        {
+          "text": "Cương lĩnh chính trị.",
+          "correct": false
+        }
+      ],
+      "id": "q004"
+    },
+    {
+      "question": "'Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do'. Câu trên được Hồ Chí Minh nói đến trong văn kiện nào?",
+      "answers": [
+        {
+          "text": "Tuyên ngôn độc lập.",
+          "correct": false
+        },
+        {
+          "text": "Bản án chế độ thực dân Pháp.",
+          "correct": false
+        },
+        {
+          "text": "Đường Kách mệnh.",
+          "correct": false
+        },
+        {
+          "text": "Lời kêu gọi toàn quốc kháng chiến.",
+          "correct": true
+        }
+      ],
+      "id": "q005"
+    },
+    {
+      "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi phải đi theo con đường nào?",
+      "answers": [
+        {
+          "text": "Cách mạng tư sản.",
+          "correct": false
+        },
+        {
+          "text": "Cách mạng vô sản.",
+          "correct": true
+        },
+        {
+          "text": "Cách mạng XHCN",
+          "correct": false
+        },
+        {
+          "text": "Cách mạng ruộng đất.",
+          "correct": false
+        }
+      ],
+      "id": "q006"
+    },
+    {
+      "question": "Chọn cụm từ đúng điền vào chỗ trống: \"Việt Nam muốn làm bạn với..., không gây thù oán với một ai.\"",
+      "answers": [
+        {
+          "text": "Các nước xã hội chủ nghĩa.",
+          "correct": false
+        },
+        {
+          "text": "Các dân tộc thuộc địa, bị áp bức.",
+          "correct": false
+        },
+        {
+          "text": "Mọi nước dân chủ.",
+          "correct": true
+        },
+        {
+          "text": "Mọi nước nghèo.",
+          "correct": false
+        }
+      ],
+      "id": "q007"
+    },
+    {
+      "question": "Hồ Chí Minh đã dùng hình tượng nào dưới đây để chỉ chủ nghĩa tư bản?",
+      "answers": [
+        {
+          "text": "Con bạch tuộc.",
+          "correct": false
+        },
+        {
+          "text": "Con đỉa hai vòi.",
+          "correct": true
+        },
+        {
+          "text": "Chim đại bàng.",
+          "correct": false
+        },
+        {
+          "text": "Chim cánh cụt.",
+          "correct": false
+        }
+      ],
+      "id": "q008"
+    },
+    {
+      "question": "Theo Tư tưởng Hồ Chí Minh, nguyên tắc phân phối chủ yếu trong chủ nghĩa xã hội là gì?",
+      "answers": [
+        {
+          "text": "Làm theo năng lực, hưởng theo nhu cầu.",
+          "correct": false
+        },
+        {
+          "text": "Làm theo năng lực, hưởng theo lao động.",
+          "correct": true
+        },
+        {
+          "text": "Phân phối cho tất cả mọi người.",
+          "correct": false
+        },
+        {
+          "text": "Làm ít hưởng vừa đủ.",
+          "correct": false
+        }
+      ],
+      "id": "q009"
+    },
+    {
+      "question": "Theo Hồ Chí Minh, muốn xây dựng chủ nghĩa xã hội trước hết cần có cái gì?",
+      "answers": [
+        {
+          "text": "Khoa học – kỹ thuật.",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế phát triển.",
+          "correct": false
+        },
+        {
+          "text": "Con người toàn diện.",
+          "correct": false
+        },
+        {
+          "text": "Con người xã hội chủ nghĩa.",
+          "correct": true
+        }
+      ],
+      "id": "q010"
+    },
+    {
+      "question": "Điền vào chỗ trống, hoàn chỉnh thơ của Hồ Chí Minh:\n\"Rằng đây bốn biển một nhà… đều là anh em.\"",
+      "answers": [
+        {
+          "text": "lao động thế giới.",
+          "correct": false
+        },
+        {
+          "text": "bốn phương vô sản.",
+          "correct": true
+        },
+        {
+          "text": "tứ hải.",
+          "correct": false
+        },
+        {
+          "text": "vàng đen trắng đỏ.",
+          "correct": false
+        }
+      ],
+      "id": "q011"
+    },
+    {
+      "question": "Chọn cụm từ thích hợp điền vào chỗ trống: \"Văn hóa… cho quốc dân đi.\"",
+      "answers": [
+        {
+          "text": "Mở đường.",
+          "correct": false
+        },
+        {
+          "text": "Soi lối",
+          "correct": false
+        },
+        {
+          "text": "Soi đường.",
+          "correct": true
+        },
+        {
+          "text": "Dẫn lối.",
+          "correct": false
+        }
+      ],
+      "id": "q012"
+    },
+    {
+      "question": "Phát kiến vĩ đại nhất của C.Mác trên lĩnh vực nghiên cứu triết học và kinh tế chính trị là:",
+      "answers": [
+        {
+          "text": "Sáng tạo ra chủ nghĩa duy vật biện chứng và học thuyết giá trị lao động.",
+          "correct": false
+        },
+        {
+          "text": "Sáng tạo ra phép biện chứng duy vật và học thuyết giá trị thặng dư.",
+          "correct": false
+        },
+        {
+          "text": "Sáng tạo ra chủ nghĩa duy vật và học thuyết giá trị thặng dư.",
+          "correct": false
+        },
+        {
+          "text": "Sáng tạo ra chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư.",
+          "correct": true
+        }
+      ],
+      "id": "q013"
+    },
+    {
+      "question": "Bộ phận lý luận kinh tế chính trị của chủ nghĩa Mác được thể hiện tập trung trong tác phẩm:",
+      "answers": [
+        {
+          "text": "Triết học.",
+          "correct": false
+        },
+        {
+          "text": "Tư bản luận (bộ Tư bản).",
+          "correct": true
+        },
+        {
+          "text": "Gôta.",
+          "correct": false
+        },
+        {
+          "text": "Tuyên ngôn của ĐCS.",
+          "correct": false
+        }
+      ],
+      "id": "q014"
+    },
+    {
+      "question": "\"Chủ nghĩa Mác đã mở đường cho việc nghiên cứu rộng rãi và toàn diện quá trình phát sinh, phát triển và suy tàn của các hình thái kinh tế - xã hội\". Nhận định trên đây là của:",
+      "answers": [
+        {
+          "text": "C.Mác",
+          "correct": false
+        },
+        {
+          "text": "Ph.Ăngghen",
+          "correct": false
+        },
+        {
+          "text": "Vladimir Ilych Lenin",
+          "correct": true
+        },
+        {
+          "text": "Hồ Chí Minh",
+          "correct": false
+        }
+      ],
+      "id": "q015"
+    },
+    {
+      "question": "Theo Ph. Ăngghen, vấn đề cơ bản lớn của triết học là vấn đề về:",
+      "answers": [
+        {
+          "text": "Vật chất.",
+          "correct": false
+        },
+        {
+          "text": "Ý thức.",
+          "correct": false
+        },
+        {
+          "text": "Mối quan hệ giữa tư duy và tồn tại.",
+          "correct": true
+        },
+        {
+          "text": "Quy luật chung nhất của thế giới.",
+          "correct": false
+        }
+      ],
+      "id": "q016"
+    },
+    {
+      "question": "Đâu là nhận định của quan điểm siêu hình?",
+      "answers": [
+        {
+          "text": "Cái chung tồn tại một cách độc lập, không phụ thuộc vào cái riêng.",
+          "correct": true
+        },
+        {
+          "text": "Trong hiện thực chỉ có các sự vật đơn thuần nhất là tồn tại.",
+          "correct": false
+        },
+        {
+          "text": "Cái chung chỉ tồn tại trong sự phụ thuộc vào cái riêng.",
+          "correct": false
+        },
+        {
+          "text": "Tất cả các đáp án trên đều sai.",
+          "correct": false
+        }
+      ],
+      "id": "q017"
+    },
+    {
+      "question": "Khi khoa học tự nhiên phát hiện ra tia X, ra hiện tượng phóng xạ, ra điện tử là một thành phần cấu tạo nên nguyên tử. Theo V.I.Lênin điều đó chứng tỏ điều gì?",
+      "answers": [
+        {
+          "text": "Vật chất không tồn tại thật sự.",
+          "correct": false
+        },
+        {
+          "text": "Vật chất tiêu tan mất.",
+          "correct": false
+        },
+        {
+          "text": "Vật chất có tồn tại và không thể nhận thức được.",
+          "correct": false
+        },
+        {
+          "text": "Giới hạn hiểu biết trước đây của chúng ta về vật chất mất đi.",
+          "correct": true
+        }
+      ],
+      "id": "q018"
+    },
+    {
+      "question": "Phép biện chứng duy vật bao gồm những nguyên lý, quy luật cơ bản nào?",
+      "answers": [
+        {
+          "text": "2 nguyên lý, 3 quy luật.",
+          "correct": true
+        },
+        {
+          "text": "2 nguyên lý, 2 quy luật.",
+          "correct": false
+        },
+        {
+          "text": "3 nguyên lý, 2 quy luật",
+          "correct": false
+        },
+        {
+          "text": "3 nguyên lý, 3 quy luật",
+          "correct": false
+        }
+      ],
+      "id": "q019"
+    },
+    {
+      "question": "Nguồn gốc, động lực cơ bản của sự vận động, phát triển là do:",
+      "answers": [
+        {
+          "text": "Sự thống nhất của các mặt đối lập.",
+          "correct": false
+        },
+        {
+          "text": "Sự đấu tranh của các mặt đối lập và các quy luật.",
+          "correct": false
+        },
+        {
+          "text": "Sự thống nhất và đấu tranh giữa các mặt đối lập.",
+          "correct": true
+        },
+        {
+          "text": "Sự thống nhất và đấu tranh của các quy luật.",
+          "correct": false
+        }
+      ],
+      "id": "q020"
+    },
+    {
+      "question": "\"Đói nghèo\" và \"dốt nát\", hiện tượng nào là nguyên nhân, hiện tượng nào là kết quả?",
+      "answers": [
+        {
+          "text": "Đói nghèo là nguyên nhân, dốt nát là kết quả.",
+          "correct": false
+        },
+        {
+          "text": "Dốt nát là nguyên nhân, đói nghèo là kết quả.",
+          "correct": false
+        },
+        {
+          "text": "Hiện tượng này chỉ có thể là nguyên nhân hoặc kết quả của hiện tượng kia.",
+          "correct": false
+        },
+        {
+          "text": "Hiện tượng này vừa là nguyên nhân, vừa là kết quả của hiện tượng kia.",
+          "correct": true
+        }
+      ],
+      "id": "q021"
+    },
+    {
+      "question": "C.Mác và Ph.Ăngghen cho rằng: Cái mà người ta quả quyết cho là… thì lại hoàn toàn do những cái… cấu thành; và cái được coi là… lại là hình thức trong đó ẩn nấp…",
+      "answers": [
+        {
+          "text": "tất yếu/ngẫu nhiên; ngẫu nhiên/tất yếu.",
+          "correct": true
+        },
+        {
+          "text": "ngẫu nhiên/tất yếu; tất yếu/ngẫu nhiên.",
+          "correct": false
+        },
+        {
+          "text": "tất yếu/ngẫu nhiên; tất yếu/ngẫu nhiên.",
+          "correct": false
+        },
+        {
+          "text": "ngẫu nhiên/tất yếu; ngẫu nhiên/tất yếu.",
+          "correct": false
+        }
+      ],
+      "id": "q022"
+    },
+    {
+      "question": "Cái gì trực tiếp làm thay đổi chất của sự vật?",
+      "answers": [
+        {
+          "text": "Sự tăng lên hay giảm đi về số lượng của các yếu tố cấu thành sự vật.",
+          "correct": false
+        },
+        {
+          "text": "Sự biến đổi cấu trúc của sự vật.",
+          "correct": true
+        },
+        {
+          "text": "Sự tăng lên về quy mô tồn tại của sự vật.",
+          "correct": false
+        },
+        {
+          "text": "Không có đáp án nào đúng.",
+          "correct": false
+        }
+      ],
+      "id": "q023"
+    },
+    {
+      "question": "Cung và cầu có phải hai mặt đối lập tạo thành mâu thuẫn biện chứng của thị trường không? Tại sao?",
+      "answers": [
+        {
+          "text": "Đúng. Vì cung và cầu vừa có xu hướng đối lập nhau, vừa là điều kiện tồn tại của nhau.",
+          "correct": true
+        },
+        {
+          "text": "Đúng. Nhưng không là điều kiện tồn tại của nhau.",
+          "correct": false
+        },
+        {
+          "text": "Sai. Vì nó không là điều kiện tồn tại của nhau.",
+          "correct": false
+        },
+        {
+          "text": "Sai. Vì cung và cầu vừa có xu hướng đối lập nhau, vừa là điều kiện tồn tại của nhau.",
+          "correct": false
+        }
+      ],
+      "id": "q024"
+    },
+    {
+      "question": "\"Điền thêm từ để hoàn thiện nhận định sau đây và xác định đó là nhận định của ai? \\\"Điểm khác biệt căn bản giữa xã hội loài người với xã hội loài vật là ở chỗ: loài vật may mắn lắm chỉ hái lượm trong khi con người lại…\\\"\"",
+      "answers": [
+        {
+          "text": "Biết sáng tạo/Ph.Ăngghen.",
+          "correct": false
+        },
+        {
+          "text": "Sản xuất/Ph.Ăngghen.",
+          "correct": true
+        },
+        {
+          "text": "Tiến hành lao động/C.Mác.",
+          "correct": false
+        },
+        {
+          "text": "Tư duy/V.I.Lênin.",
+          "correct": false
+        }
+      ],
+      "id": "q025"
+    },
+    {
+      "question": "Khi xuất hiện mâu thuẫn gay gắt giữa lực lượng sản xuất và quan hệ sản xuất thì:",
+      "answers": [
+        {
+          "text": "Quan hệ sản xuất sẽ tự động thay đổi cho phù hợp với lực lượng sản xuất.",
+          "correct": false
+        },
+        {
+          "text": "Quan hệ sản xuất không thể thay đổi được vì nó được bảo vệ bằng quyền lực nhà nước và chính đảng cầm quyền.",
+          "correct": false
+        },
+        {
+          "text": "Lực lượng sản xuất phải tự điều chỉnh cho phù hợp với quan hệ sản xuất.",
+          "correct": false
+        },
+        {
+          "text": "Quan hệ sản xuất được thay đổi thông qua những cuộc cải cách và các cuộc cách mạng xã hội.",
+          "correct": true
+        }
+      ],
+      "id": "q026"
+    },
+    {
+      "question": "Sự thống nhất giữa lực lượng sản xuất ở một trình độ nhất định và quan hệ sản xuất tương ứng tạo thành:",
+      "answers": [
+        {
+          "text": "Hình thái KT-XH",
+          "correct": false
+        },
+        {
+          "text": "Phương thức sản xuất.",
+          "correct": true
+        },
+        {
+          "text": "Cơ sở hạ tầng.",
+          "correct": false
+        },
+        {
+          "text": "Kiến trúc thượng tầng.",
+          "correct": false
+        }
+      ],
+      "id": "q027"
+    },
+    {
+      "question": "Quan niệm cho rằng: \"suy nghĩ của những người sống trong túp lều tranh luôn luôn khác với suy nghĩ của những kẻ sống trong cung điện\" là quan niệm của:",
+      "answers": [
+        {
+          "text": "Chủ nghĩa duy vật biện chứng.",
+          "correct": false
+        },
+        {
+          "text": "Chủ nghĩa suy vật siêu hình.",
+          "correct": true
+        },
+        {
+          "text": "Chủ nghĩa duy tâm chủ quan.",
+          "correct": false
+        },
+        {
+          "text": "Chủ nghĩa duy vật lịch sử.",
+          "correct": false
+        }
+      ],
+      "id": "q028"
+    },
+    {
+      "question": "Lực lượng cách mạng chủ yếu được xác định trong Cương lĩnh chính trị đầu tiên của Đảng bao gồm",
+      "answers": [
+        {
+          "text": "Công nhân, nông dân, tiểu tư sản, trí thức.",
+          "correct": true
+        },
+        {
+          "text": "Công nhân, nông dân và tiểu địa chủ.",
+          "correct": false
+        },
+        {
+          "text": "Công nhân, nông dân, tư sản dân tộc.",
+          "correct": false
+        },
+        {
+          "text": "Công nhân, nông dân, tư sản.",
+          "correct": false
+        }
+      ],
+      "id": "q029"
+    },
+    {
+      "question": "Đảng Cộng sản Việt Nam ra đời là bước ngoặt vĩ đại của cách mạng Việt Nam vì đã chấm dứt",
+      "answers": [
+        {
+          "text": "Vai trò lãnh đạo của giai cấp tư sản.",
+          "correct": false
+        },
+        {
+          "text": "Thời kì khủng hoảng về đường lối và giai cấp lãnh đạo.",
+          "correct": true
+        },
+        {
+          "text": "Vai trò lãnh đạo của giai cấp phong kiến Việt Nam.",
+          "correct": false
+        },
+        {
+          "text": "Hoạt động của Hội Việt Nam cách mạng Thanh niên.",
+          "correct": false
+        }
+      ],
+      "id": "q030"
+    },
+    {
+      "question": "Hiệp định Giơ-ne-ve dẫn đến chấm dứt sự hiện diện của quân đội Pháp trên bán đảo Đông Dương được ký kết vào năm?",
+      "answers": [
+        {
+          "text": "1945",
+          "correct": false
+        },
+        {
+          "text": "1946",
+          "correct": false
+        },
+        {
+          "text": "1954",
+          "correct": true
+        },
+        {
+          "text": "1975",
+          "correct": false
+        }
+      ],
+      "id": "q031"
+    },
+    {
+      "question": "Chánh cương vắn tắt, sách lược vắn tắt, chương trình tóm tắt được thông qua tại hội nghị nào?",
+      "answers": [
+        {
+          "text": "Hội nghị Diên Hồng",
+          "correct": false
+        },
+        {
+          "text": "Hội nghị hợp nhất các tổ chức cộng sản",
+          "correct": true
+        },
+        {
+          "text": "Hội nghị Ianta",
+          "correct": false
+        },
+        {
+          "text": "Hội nghị Giơ-ne-vơ",
+          "correct": false
+        }
+      ],
+      "id": "q032"
+    },
+    {
+      "question": "Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam là ai?",
+      "answers": [
+        {
+          "text": "Nguyễn Ái Quốc",
+          "correct": false
+        },
+        {
+          "text": "Trần Phú",
+          "correct": true
+        },
+        {
+          "text": "Nguyễn Phong Sắc",
+          "correct": false
+        },
+        {
+          "text": "Hoàng Quốc Việt",
+          "correct": false
+        }
+      ],
+      "id": "q033"
+    },
+    {
+      "question": "Tổ chức nào là tiền thân của Đảng cộng sản Việt Nam?",
+      "answers": [
+        {
+          "text": "Hội cứu quốc",
+          "correct": false
+        },
+        {
+          "text": "Hội Việt Nam cách mạng Thanh Niên",
+          "correct": true
+        },
+        {
+          "text": "Hội Việt Nam yêu nước",
+          "correct": false
+        },
+        {
+          "text": "Hội những người Việt Nam yêu nước",
+          "correct": false
+        }
+      ],
+      "id": "q034"
+    },
+    {
+      "question": "Hội Nghị thành lập Đảng được diễn ra tại đâu?",
+      "answers": [
+        {
+          "text": "Cao Bằng",
+          "correct": false
+        },
+        {
+          "text": "Nghệ An",
+          "correct": false
+        },
+        {
+          "text": "Hà Nội",
+          "correct": false
+        },
+        {
+          "text": "Hương Cảng - Trung Quốc",
+          "correct": true
+        }
+      ],
+      "id": "q035"
+    },
+    {
+      "question": "Ngày 5-6-1911 đã diễn ra sự kiện lịch sử quan trọng nào?",
+      "answers": [
+        {
+          "text": "Việt Nam Quang phục hội được thành lập",
+          "correct": false
+        },
+        {
+          "text": "Nguyễn Tất Thành ra đi tìm đường cứu nước",
+          "correct": true
+        },
+        {
+          "text": "Phong trào kháng thuế ở Trung Kì bùng nổ",
+          "correct": false
+        },
+        {
+          "text": "Trường Đông Kinh nghĩa thục thành lập",
+          "correct": false
+        }
+      ],
+      "id": "q036"
+    },
+    {
+      "question": "Điểm đến đầu tiên trong hành trình tìm đường cứu nước của Nguyễn Tất Thành là quốc gia nào?",
+      "answers": [
+        {
+          "text": "Pháp",
+          "correct": true
+        },
+        {
+          "text": "Mỹ",
+          "correct": false
+        },
+        {
+          "text": "Anh",
+          "correct": false
+        },
+        {
+          "text": "Liên Xô",
+          "correct": false
+        }
+      ],
+      "id": "q037"
+    },
+    {
+      "question": "Hiệp ước nào đánh dấu sự đầu hàng hoàn toàn của triều đình phong kiến nhà Nguyễn trước thế lực xâm lăng?",
+      "answers": [
+        {
+          "text": "Hắc-măng",
+          "correct": false
+        },
+        {
+          "text": "Pa-tơ-nốt",
+          "correct": true
+        },
+        {
+          "text": "Nhâm Tuất",
+          "correct": false
+        },
+        {
+          "text": "Giáp Tuất",
+          "correct": false
+        }
+      ],
+      "id": "q038"
+    },
+    {
+      "question": "Duyên cớ để liên quân Pháp-Tây Ban Nha nổ súng xâm lược Việt Nam ngày 1-9-1858 là",
+      "answers": [
+        {
+          "text": "Chính sách cấm đạo, giết đạo của nhà Nguyễn",
+          "correct": true
+        },
+        {
+          "text": "Nhu cầu về thị trường, nguyên liệu, nhân công",
+          "correct": false
+        },
+        {
+          "text": "Triều đình Nguyễn từ chối nhận quốc thư của chính phủ Pháp",
+          "correct": false
+        },
+        {
+          "text": "Triều đình Nguyễn không cho thương nhân châu Âu đến Việt Nam buôn bán",
+          "correct": false
+        }
+      ],
+      "id": "q039"
+    },
+    {
+      "question": "Sự thất bại của phong trào yêu nước nào đã chứng tỏ độc lập dân tộc không gắn liền với chế độ phong kiến?",
+      "answers": [
+        {
+          "text": "Phong trào Cần Vương",
+          "correct": true
+        },
+        {
+          "text": "Phong trào nông dân Yên Thế",
+          "correct": false
+        },
+        {
+          "text": "Cuộc đấu tranh của đồng bào dân tộc thiểu số",
+          "correct": false
+        },
+        {
+          "text": "Khởi nghĩa Thái Nguyên",
+          "correct": false
+        }
+      ],
+      "id": "q040"
+    },
+    {
+      "question": "Từ chính sách ngoại giao sai lầm của nhà Nguyễn, Việt Nam rút ra bài học gì trong công cuộc đổi mới hiện nay?",
+      "answers": [
+        {
+          "text": "Cải cách toàn diện triệt để.",
+          "correct": false
+        },
+        {
+          "text": "Tự do tôn giáo.",
+          "correct": false
+        },
+        {
+          "text": "Mở cửa cải cách, tự do tín ngưỡng.",
+          "correct": false
+        },
+        {
+          "text": "Đổi mới phát triển kinh tế gắn với mở cửa, tăng cường hợp tác để phát triển toàn diện.",
+          "correct": true
+        }
+      ],
+      "id": "q041"
+    },
+    {
+      "question": "Cách mạng tháng Tám năm 1945 là kết quả của bao nhiêu năm đấu tranh anh dũng của nhân dân ta dưới sự lãnh đạo của Đảng?",
+      "answers": [
+        {
+          "text": "5 năm",
+          "correct": false
+        },
+        {
+          "text": "10 năm",
+          "correct": false
+        },
+        {
+          "text": "15 năm",
+          "correct": true
+        },
+        {
+          "text": "20 năm",
+          "correct": false
+        }
+      ],
+      "id": "q042"
+    },
+    {
+      "question": "Nguyễn Tất Thành ra đi tìm đường cứu nước vào lúc chủ nghĩa tư bản đang tồn tại như thế nào?",
+      "answers": [
+        {
+          "text": "Còn non trẻ",
+          "correct": false
+        },
+        {
+          "text": "Vừa lật đổ chế độ phong kiến",
+          "correct": false
+        },
+        {
+          "text": "Đoàn kết",
+          "correct": false
+        },
+        {
+          "text": "Đã trở thành chủ nghĩa đế quốc",
+          "correct": true
+        }
+      ],
+      "id": "q043"
+    },
+    {
+      "question": "Hội nghị thành lập Đảng ngày 03-02-1930 diễn ra tại Hương Cảng (Trung Quốc) đã hợp nhất 3 tổ chức cộng sản thành lập ra Đảng Cộng sản nào?",
+      "answers": [
+        {
+          "text": "Đảng Cộng sản Trung Quốc",
+          "correct": false
+        },
+        {
+          "text": "Đảng Cộng sản Việt Nam",
+          "correct": true
+        },
+        {
+          "text": "Đảng Cộng sản Lào",
+          "correct": false
+        },
+        {
+          "text": "Đông dương cộng sản đảng",
+          "correct": false
+        }
+      ],
+      "id": "q044"
+    },
+    {
+      "question": "Đảng ta xác định đặc trưng cơ bản của xã hội xã hội chủ nghĩa ở Việt Nam gồm mấy đặc trưng?",
+      "answers": [
+        {
+          "text": "5",
+          "correct": false
+        },
+        {
+          "text": "6",
+          "correct": false
+        },
+        {
+          "text": "7",
+          "correct": false
+        },
+        {
+          "text": "8",
+          "correct": true
+        }
+      ],
+      "id": "q045"
+    },
+    {
+      "question": "Dân chủ là gì?",
+      "answers": [
+        {
+          "text": "Dân chủ là phát triển kinh tế - xã hội",
+          "correct": false
+        },
+        {
+          "text": "Dân chủ là một phạm trù văn hóa",
+          "correct": false
+        },
+        {
+          "text": "Dân chủ là một hình thức hay hình thái nhà nước",
+          "correct": true
+        },
+        {
+          "text": "Dân chủ là một phạm trù đạo đức",
+          "correct": false
+        }
+      ],
+      "id": "q046"
+    },
+    {
+      "question": "Đâu là bản chất kinh tế của nền dân chủ XHCN?",
+      "answers": [
+        {
+          "text": "Quyền lực chính trị thuộc về nhân dân",
+          "correct": false
+        },
+        {
+          "text": "Chế độ sở hữu về những tư liệu sản xuất chủ yếu của toàn xã hội, đáp ứng sự phát triển ngày càng cao của lực lượng sản xuất dựa trên khoa học và công nghệ hiện đại",
+          "correct": true
+        },
+        {
+          "text": "Chế độ tư hữu giữ vai trò chủ đạo",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế nhiều thành phần",
+          "correct": false
+        }
+      ],
+      "id": "q047"
+    },
+    {
+      "question": "Mục tiêu chiến lược và lâu dài mà Đảng và nhân dân ta quyết tâm thực hiện là gì?",
+      "answers": [
+        {
+          "text": "Dân chủ, văn minh",
+          "correct": false
+        },
+        {
+          "text": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+          "correct": true
+        },
+        {
+          "text": "Bình đẳng, bác ái, yêu thương giống nòi.",
+          "correct": false
+        },
+        {
+          "text": "Thống nhất đất nước.",
+          "correct": false
+        }
+      ],
+      "id": "q048"
+    },
+    {
+      "question": "Đâu là một trong những phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay?",
+      "answers": [
+        {
+          "text": "Xây dựng hệ thống chính trị vững mạnh",
+          "correct": false
+        },
+        {
+          "text": "Xây dựng nền giáo dục toàn diện",
+          "correct": false
+        },
+        {
+          "text": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa",
+          "correct": true
+        },
+        {
+          "text": "Công nghiệp hóa, hiện đại hóa đất nước",
+          "correct": false
+        }
+      ],
+      "id": "q049"
+    },
+    {
+      "question": "Mô hình kinh tế tổng quát trong thời kỳ quá độ lên CNXH ở Việt Nam được xác định là?",
+      "answers": [
+        {
+          "text": "Kinh tế thị trường theo định hướng xã hội chủ nghĩa",
+          "correct": true
+        },
+        {
+          "text": "Kinh tế tư nhân",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế tập thể",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế vốn nước ngoài",
+          "correct": false
+        }
+      ],
+      "id": "q050"
+    },
+    {
+      "question": "Tăng cường quốc phòng, giữ vững an ninh quốc gia, trật tự, an toàn xã hội là nhiệm vụ….của Đảng, nhà nước và toàn dân",
+      "answers": [
+        {
+          "text": "Nhiệm vụ thường xuyên, liên tục",
+          "correct": false
+        },
+        {
+          "text": "Nhiệm vụ quan trọng, then chốt",
+          "correct": false
+        },
+        {
+          "text": "Nhiệm vụ trọng yếu, thường xuyên",
+          "correct": true
+        },
+        {
+          "text": "Nhiệm vụ trọng yếu, then chốt",
+          "correct": false
+        }
+      ],
+      "id": "q051"
+    },
+    {
+      "question": "Nền tảng vững chắc của quốc phòng an ninh là?",
+      "answers": [
+        {
+          "text": "Sự ổn định và phát triển bền vững mọi mặt đời sống kinh tế, xã hội",
+          "correct": true
+        },
+        {
+          "text": "Phát triển bền vững về kinh tế",
+          "correct": false
+        },
+        {
+          "text": "Phát triển giáo dục",
+          "correct": false
+        },
+        {
+          "text": "Phát triển an ninh trật tự",
+          "correct": false
+        }
+      ],
+      "id": "q052"
+    },
+    {
+      "question": "Nhà nước pháp quyền xã hội chủ nghĩa là nhà nước?",
+      "answers": [
+        {
+          "text": "Nhà nước do nhân dân lập nên",
+          "correct": false
+        },
+        {
+          "text": "Nhà nước của nhân dân, do nhân dân, vì nhân dân",
+          "correct": true
+        },
+        {
+          "text": "Nhà nước Việt Nam dân chủ cộng hòa",
+          "correct": false
+        },
+        {
+          "text": "Nhà nước tự do, dân chủ, công bằng",
+          "correct": false
+        }
+      ],
+      "id": "q053"
+    },
+    {
+      "question": "Dân chủ xã hội chủ nghĩa là …. của chế độ ta, vừa là mục tiêu, vừa là động lực của sự phát triển của đất nước.",
+      "answers": [
+        {
+          "text": "Trọng tâm",
+          "correct": false
+        },
+        {
+          "text": "Đường lối",
+          "correct": false
+        },
+        {
+          "text": "Nền tảng",
+          "correct": false
+        },
+        {
+          "text": "Bản chất",
+          "correct": true
+        }
+      ],
+      "id": "q054"
+    },
+    {
+      "question": "Khối đại đoàn kết toàn dân tộc dựa trên nền tảng?",
+      "answers": [
+        {
+          "text": "Liên minh giai cấp công nhân và giai cấp nông dân dưới sự lãnh đạo của Đảng",
+          "correct": false
+        },
+        {
+          "text": "Liên minh giai cấp công nhân, giai cấp nông dân và đội ngũ trí thức dưới sự lãnh đạo của Đảng",
+          "correct": true
+        },
+        {
+          "text": "Liên minh các dân tộc dưới sự lãnh đạo của Đảng",
+          "correct": false
+        },
+        {
+          "text": "Liên minh giai cấp công nhân và đội ngũ trí thức dưới sự lãnh đạo của Đảng",
+          "correct": false
+        }
+      ],
+      "id": "q055"
+    },
+    {
+      "question": "Đâu là một trong những đặc trưng cơ bản của chủ nghĩa xã hội theo quan điểm của chủ nghĩa Mác – Lênin?",
+      "answers": [
+        {
+          "text": "Nền kinh tế thị trường định hướng xã hội chủ nghĩa",
+          "correct": false
+        },
+        {
+          "text": "Chủ nghĩa xã hội gắn với khoa học công nghệ hiện đại",
+          "correct": false
+        },
+        {
+          "text": "Chủ nghĩa xã hội gắn với nhà nước pháp quyền",
+          "correct": false
+        },
+        {
+          "text": "Chủ nghĩa xã hội có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất",
+          "correct": true
+        }
+      ],
+      "id": "q056"
+    },
+    {
+      "question": "Đặc điểm kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+      "answers": [
+        {
+          "text": "Kinh tế nông dân gia trưởng",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế thị trường",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế kế hoạch hóa, tập trung",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế nhiều thành phần trong đó có thành phần đối lập",
+          "correct": true
+        }
+      ],
+      "id": "q057"
+    },
+    {
+      "question": "Điền vào chỗ trống: 'Dân giàu, nước mạnh,…., dân chủ, văn minh'",
+      "answers": [
+        {
+          "text": "Phồn thịnh",
+          "correct": false
+        },
+        {
+          "text": "Công bằng",
+          "correct": true
+        },
+        {
+          "text": "Phát triển",
+          "correct": false
+        },
+        {
+          "text": "Bền vững",
+          "correct": false
+        }
+      ],
+      "id": "q058"
+    },
+    {
+      "question": "Cần làm gì để có một xã hội do nhân dân làm chủ?",
+      "answers": [
+        {
+          "text": "Hoàn thiện nền dân chủ xã hội chủ nghĩa",
+          "correct": true
+        },
+        {
+          "text": "Hoàn thiện thể chế kinh tế thị trường",
+          "correct": false
+        },
+        {
+          "text": "Hoàn thiện nền tư bản chủ nghĩa",
+          "correct": false
+        },
+        {
+          "text": "Hoàn thiện nhà nước pháp quyền",
+          "correct": false
+        }
+      ],
+      "id": "q059"
+    },
+    {
+      "question": "Điền vào chỗ trống: '….. là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển'",
+      "answers": [
+        {
+          "text": "Chủ nghĩa xã hội",
+          "correct": false
+        },
+        {
+          "text": "Kinh tế thị trường",
+          "correct": false
+        },
+        {
+          "text": "Con người",
+          "correct": true
+        },
+        {
+          "text": "Nhà nước pháp quyền",
+          "correct": false
+        }
+      ],
+      "id": "q060"
+    }
+  ],
+  "leaderboard": [
+    {
+      "id": "1499",
+      "name": "Admin",
+      "score": 0,
+      "totalQuestions": 60
+    },
+    {
+      "id": "bfa3",
+      "name": "Admin",
+      "score": 0,
+      "totalQuestions": 60
+    },
+    {
+      "id": "b357",
+      "name": "Admin",
+      "score": 0,
+      "totalQuestions": 60
+    },
+    {
+      "id": "0658",
+      "name": "Admin",
+      "score": 0,
+      "totalQuestions": 60
+    },
+    {
+      "id": "4062",
+      "name": "Admin",
+      "score": 0,
+      "totalQuestions": 60
+    },
+    {
+      "id": "0107",
+      "name": "Admin",
+      "score": 0,
+      "totalQuestions": 60
+    },
+    {
+      "id": "ede2",
+      "name": "Admin",
+      "score": 0,
+      "totalQuestions": 60
+    },
+    {
+      "id": "50a7",
+      "name": "Admin",
+      "score": 0,
+      "totalQuestions": 60
+    }
+  ]
+}

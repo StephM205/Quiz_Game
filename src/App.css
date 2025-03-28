@@ -1,0 +1,601 @@
+.container-home {
+  background: linear-gradient(45deg, #5b1578, #4d5276);
+  color: white;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Container chính */
+.row {
+  background: #3a0b50;
+  padding: 10px;
+  border-radius: 10px;
+  width: 750px;
+  padding: 10px 10px 20px 10px;
+  margin-bottom: 10px;
+}
+.row1 {
+  padding: 10px;
+  border-radius: 10px;
+  width: 750px;
+  padding: 10px 10px 20px 10px;
+  margin-bottom: 10px;
+}
+
+/* Tiêu đề */
+.row h2 {
+  color: #fdfdfda8;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  display: flex;
+}
+
+/* Ô nhập tên */
+.form-control {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+/* Nút bắt đầu quiz */
+.btnt {
+  width: 100%;
+  color: #fafafa;
+  background-color: #00c985;
+  border: none;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 30px;
+  font-size: 18px;
+  font-weight: 700;
+  transition: all 0.2s;
+  display: flex;
+  position: relative;
+  box-shadow: 0 4px #00a06a;
+}
+
+.form-control {
+  color: #292a3a;
+  box-sizing: border-box;
+  opacity: 1;
+  background-color: #fff;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  width: 100%;
+  padding: 10px 30px;
+  font-size: 18px;
+  font-weight: 500;
+  box-shadow: inset 0 1px 4px #00000026;
+}
+
+.btn-primary {
+  margin-top: 16px;
+}
+
+.btn-primary:hover {
+  background-color: #00a15d;
+}
+.text1 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 700;
+}
+.text1 h5 {
+  width: 104px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0px;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
+}
+
+.text1 ul {
+  list-style: none;
+  padding: 0;
+}
+
+.text1 ul li {
+  margin: 8px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+.text1 ul li:hover {
+  background: #3498db;
+  color: white;
+  transform: scale(1.05);
+}
+/*  */
+/* Quiz Container */
+.quiz-container {
+  width: 80%;
+  margin: 50px auto;
+  border-radius: 15px;
+  color: #fff;
+}
+
+/* Tiêu đề câu hỏi */
+.question-container {
+  border-radius: 10px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #ddd;
+  margin-bottom: 20px;
+}
+.question-container .kth-text {
+  border: 5px solid #063f0c;
+  border-radius: 20px;
+  background: #2a0134;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.kth-text h2 {
+  font-size: 22px;
+  font-weight: bold;
+}
+/* Định dạng câu trả lời dạng lưới */
+.kth {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  padding: 10px;
+}
+
+/* Các ô đáp án */
+.answer-btn {
+  width: 350px;
+  line-height: 1.7;
+  height: 350px;
+  color: white;
+  border: none;
+  text-align: left;
+  font-size: 19px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(6, 37, 194, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Màu sắc cho từng ô đáp án */
+.answer-btn:nth-child(1) {
+  background: #2980b9;
+}
+.answer-btn:nth-child(2) {
+  background: #16a085;
+}
+.answer-btn:nth-child(3) {
+  background: #f39c12;
+}
+.answer-btn:nth-child(4) {
+  background: #e74c3c;
+}
+
+/* Hiệu ứng hover */
+.answer-btn:focus {
+  transform: scale(1.05);
+  box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
+}
+
+/* Khi ô đáp án được chọn */
+.answer-btn.selected {
+  background: #27ae60;
+  box-shadow: 0px 0px 15px #2ecc71;
+}
+
+/* Áp dụng hiệu ứng */
+.quiz-container,
+.answer-btn {
+  animation: fadeIn 0.5s ease-in-out;
+}
+/* wefwetfwe */
+
+.button-container {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+.quiz-button {
+  padding: 12px 18px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  background-color: #8e44ad;
+  border: 2px solid #d1a0ff;
+  color: #fff;
+  min-width: 100px;
+}
+.quiz-button:hover {
+  background-color: #6c3483;
+  border-color: #f1c40f;
+}
+
+/* Disabled Button */
+.quiz-button:disabled {
+  background-color: #555;
+  color: #bbb;
+  cursor: not-allowed;
+  border: 2px solid #777;
+}
+
+/* Submit Button */
+.submit-button {
+  background-color: #e74c3c;
+  color: white;
+  border: 2px solid #c0392b;
+}
+
+.submit-button:hover {
+  background-color: #c0392b;
+}
+
+/* fewfwer */
+
+.result-container {
+  max-width: 800px;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+.quiz-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #f8d210;
+  margin-bottom: 15px;
+}
+
+.quiz-score {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.quiz-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.quiz-button {
+  background-color: rgb(red, green, blue);
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.quiz-button--primary {
+  background-color: #007bff;
+  color: white;
+}
+
+.quiz-button--primary:hover {
+  background-color: #0056b3;
+}
+
+.quiz-button--secondary {
+  background-color: #6c757d;
+  color: white;
+}
+
+.quiz-button--secondary:hover {
+  background-color: #5a6268;
+}
+
+.quiz-button--danger {
+  background-color: #dc3545;
+  color: white;
+}
+
+.quiz-button--danger:hover {
+  background-color: #c82333;
+}
+
+/* Modal */
+.quiz-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+  max-width: 500px;
+  height: 300px;
+  background: rgb(255, 255, 255);
+  color: black;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+.quiz-modal__header {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.quiz-modal__rating {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-bottom: 15px;
+}
+
+.quiz-modal__star {
+  font-size: 30px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.quiz-modal__star:hover {
+  color: #f8d210;
+  transform: scale(1.2);
+}
+
+.quiz-modal__comment {
+  width: 100%;
+  height: 100px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.quiz-modal__buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.quiz-modal__button {
+  padding: 20px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.quiz-modal__button--submit {
+  background-color: #28a745;
+  color: white;
+}
+
+.quiz-modal__button--submit:hover {
+  background-color: #218838;
+}
+
+.quiz-modal__button--cancel {
+  background-color: #6c757d;
+  color: white;
+}
+
+.quiz-modal__button--cancel:hover {
+  background-color: #5a6268;
+}
+
+/* àdggerg */
+/*  */
+/* Định dạng bảng */
+.container {
+  background-color: rgba(0, 0, 0, 0.6); /* Nền bảng trong suốt */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  width: 80%;
+}
+
+h2.text-center {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Bảng */
+.table {
+  width: 100%;
+  background-color: transparent;
+  color: white;
+}
+
+.table th,
+.table td {
+  text-align: center;
+  padding: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* Header */
+.table th {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Hàng dữ liệu */
+.table tbody tr {
+  transition: 0.3s;
+}
+
+.table tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Score Column Highlight */
+.table th:nth-child(3),
+.table td:nth-child(3) {
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 8px;
+}
+
+/* Nút quay về */
+.text-center button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: #ffcc00;
+  color: black;
+  border: none;
+  transition: 0.3s;
+}
+
+.text-center button:hover {
+  background-color: #ffaa00;
+}
+/* Giới hạn chiều cao bảng và thêm thanh cuộn */
+.table-container {
+  max-height: 400px; /* Điều chỉnh chiều cao tối đa */
+  overflow-y: auto; /* Bật thanh cuộn dọc nếu có nhiều hơn 10 người */
+}
+
+/* Định dạng thanh cuộn (scrollbar) */
+.table-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.table-container::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 4px;
+}
+
+.table-container::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.2);
+}
+.container-home1 {
+  background-color: #5b1578;
+  color: white;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  min-height: 100%;
+}
+
+/*  */
+/* Định dạng cho container chính */
+.container1 {
+  max-width: 900px;
+  padding: 20px;
+  background: #3a0b50;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Tiêu đề h2 */
+.container1 h2 {
+  text-align: center;
+  color: #f6f6f6;
+  margin-bottom: 20px;
+}
+.ulkt {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 20px;
+  max-height: 400px; /* Chiều cao tối đa cho danh sách */
+  overflow-y: auto; /* Hiển thị thanh cuộn dọc khi nội dung vượt quá */
+}
+
+/* Danh sách các câu trả lời sai */
+.ulkt ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Mỗi mục trong danh sách */
+.ulkt li {
+  background-color: #ffffff;
+  border-left: 5px solid #dc3545;
+  margin-bottom: 15px;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Câu hỏi */
+.ulkt li strong {
+  display: block;
+  color: #495057;
+  margin-bottom: 10px;
+}
+
+/* Câu trả lời của người dùng */
+.ulkt li span[style*="red"] {
+  color: #dc3545 !important;
+  font-weight: bold;
+}
+
+/* Câu trả lời đúng */
+.ulkt li span[style*="green"] {
+  color: #28a745 !important;
+  font-weight: bold;
+}
+.ulkt::-webkit-scrollbar {
+  width: 10px;
+}
+
+.ulkt::-webkit-scrollbar-track {
+  background: #050406;
+  border-radius: 4px;
+}
+
+.ulkt::-webkit-scrollbar-thumb {
+  background-color: #ffffff;
+  border-radius: 4px;
+  border: 2px solid #3a0b50;
+}
+.ht {
+  color: black;
+}
+
+/* Nút quay lại */
+.btn-secondary {
+  display: block;
+  width: 200px;
+  margin: 30px auto 0;
+  padding: 10px;
+  text-align: center;
+  background-color: #6c757d;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+}
