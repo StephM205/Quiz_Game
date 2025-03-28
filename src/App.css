@@ -122,19 +122,18 @@
 /*  */
 /* Quiz Container */
 .quiz-container {
-  width: 80%;
+  width: 100%;
   margin: 50px auto;
   border-radius: 15px;
   color: #fff;
 }
 
 /* Tiêu đề câu hỏi */
-.question-container {
+.quiz-container .question-container {
   border-radius: 10px;
   font-size: 22px;
   font-weight: bold;
   color: #ddd;
-  margin-bottom: 20px;
 }
 .question-container .kth-text {
   border: 5px solid #063f0c;
@@ -145,6 +144,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 20px;
 }
 .kth-text h2 {
   font-size: 22px;
