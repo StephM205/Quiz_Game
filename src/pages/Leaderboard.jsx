@@ -19,7 +19,7 @@ function Leaderboard() {
   return (
     <div className="container-home1">
       <div className="container mt-5">
-        <h2 className="text-center">Leaderboard</h2>
+        <h2 className="text-center">Bảng Xếp Hạng</h2>
 
         {/* Bọc bảng bằng div để tạo thanh cuộn */}
         <div className="table-container">
