@@ -6,7 +6,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 120vh;
+  height: 130vh;
   margin: 0;
 }
 
@@ -134,7 +134,10 @@
   font-size: 22px;
   font-weight: bold;
   color: #ddd;
-  width: 96.7%;
+  width: 90%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
 }
 .question-container .kth-text {
   border: 5px solid #063f0c;
